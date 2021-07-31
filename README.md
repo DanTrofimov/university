@@ -1,4 +1,4 @@
-# Theory from informatics lectures - 1-3 semester
+# Theory from informatics lectures
 
 list of relateted repositories with code from seminars:
 
