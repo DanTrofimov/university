@@ -14,4 +14,4 @@ list of related repositories with code from seminars:
 * [Operating Systems](https://github.com/DanTrofimov/OS)
 * [Parallel programming](https://github.com/DanTrofimov/parallel-programming)
 * Information Coding Theory (ТИК) - [lectures](https://www.youtube.com/playlist?list=PLbUGLDQvckP8aA5yVAk_weldY9kA-ardk) & [algs](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-* [Efficient Scala Development](https://github.com/DanTrofimov/scala-tinkoff)
+* [Efficient Scala Development - Tinkoff](https://github.com/DanTrofimov/scala-tinkoff)
