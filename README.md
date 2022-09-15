@@ -1,4 +1,4 @@
-# Theory from informatics lectures & practice
+# Theory from university's lectures & practice
 
 list of related repositories with code from seminars:
 
