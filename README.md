@@ -17,3 +17,4 @@ list of related repositories with code from seminars:
 * [Efficient Scala Development - Tinkoff](https://github.com/DanTrofimov/scala-tinkoff)
 * Information security - [lectures](https://www.youtube.com/playlist?list=PL5cBwNxdeNv0iYCBz53Hi21nGlPv8-_UF) & [labs](https://github.com/DanTrofimov/inf-sec)
 * [SRE (Site Reliability Engineering) - Tinkoff](https://padlet.com/p4bp94qnf6/1fmz7yq6tz8fcadg)
+* [Functional Programming at Haskell](https://github.com/DanTrofimov/haskell-fp)
